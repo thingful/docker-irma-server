@@ -10,3 +10,7 @@ Enter in the container shell:
 To run dev irma server from the container shell:
 
 `# cd /irma/irma_api_server && gradle appRun`
+
+TODO: 
+- Server Setup
+- Server Build process 
