@@ -1,5 +1,5 @@
 
-Build the docker container with IRMA Server:
+Build IRMA Server in docker container:
 
 `make build`
 
@@ -13,4 +13,3 @@ To run dev irma server instance from the container shell:
 
 TODO: 
 - Server Setup
-- Server Build process 
