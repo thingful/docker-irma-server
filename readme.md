@@ -3,6 +3,10 @@ Build IRMA Server in docker container:
 
 `make build`
 
+To run the server with the demo config:
+
+`make run`
+
 Enter in the container shell:
 
 `make shell`
